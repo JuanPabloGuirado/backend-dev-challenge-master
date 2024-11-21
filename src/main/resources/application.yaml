@@ -1,0 +1,9 @@
+server:
+  port: 8090
+
+spring:
+  application:
+    name: ms-directors-api
+
+mock-api-client:
+  host: https://eroninternational-movies.wiremockapi.cloud/api/movies/search
